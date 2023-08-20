@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahraibfatima&label=Profile%20views&color=0e75b6&style=flat" alt="mahraibfatima" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahraibfatima" alt="mahraibfatima" /></a> </p>
-
 - 🌱 I’m currently learning **Python, Numpy, Pandas**
 
 - 💬 Ask me about **C, Cpp, Python**
