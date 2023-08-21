@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahraibfatima&show_icons=true&locale=en&layout=compact" alt="mahraibfatima" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mahraibfatima&show_icons=true&locale=en" alt="mahraibfatima" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahraibfatima&show_icons=true&locale=en" alt="mahraibfatima" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahraibfatima&" alt="mahraibfatima" /></p>
 
