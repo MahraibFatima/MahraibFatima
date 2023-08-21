@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/mahraib_fatima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahraib_fatima" height="30" width="40" /></a>
 <a href="https://instagram.com/jamiyat.f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamiyat.f" height="30" width="40" /></a>
-<a href="https://medium.com/@mahraib.f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahraib.f" height="30" width="40" /></a>
+<a href="https://medium.com/@mahraibfatima5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahraib.f" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mahraibfal75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mahraibfal75" height="30" width="40" /></a>
 <a href="https://discord.gg/8796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8796" height="30" width="40" /></a>
 </p>
