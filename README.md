@@ -1,5 +1,5 @@
 
-![img](MahraibFatima.jpg)
+ <!-- ![img](MahraibFatima.jpg) -->
 <h1 align="center">Hi 👋, I'm Mahraib Fatima</h1>
 <p style="text-align: center;font-family:Arial">A passionate Machine Learning Student from Pakistan</h3>
 
