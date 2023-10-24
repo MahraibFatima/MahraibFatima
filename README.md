@@ -1,7 +1,7 @@
 
  <!-- ![img](MahraibFatima.jpg) -->
 <h1 align="center">Hi 👋, I'm Mahraib Fatima</h1>
-<p style="text-align: center;font-family:Arial">A passionate Machine Learning Student from Pakistan</h3>
+<p style="text-align: center;font-family:Arial">A passionate Machine Learning Student from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahraibfatima&label=Profile%20views&color=0e75b6&style=flat" alt="mahraibfatima" /> </p>
 
