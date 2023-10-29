@@ -5,10 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahraibfatima&label=Profile%20views&color=0e75b6&style=flat" alt="mahraibfatima" /> </p>
 
-- 🌱 I’m currently learning **Python, Numpy, Pandas**
+- 🌱 I’m currently learning **Python, Numpy, Pandas**.
 
-- 💬 Ask me about **C, Cpp, Python**
+- 💬 Ask me about **C, Cpp, Python**.
+ 
+- 🚀 An open source enthusiast interested in **Data Science, Machine Learning, and Artificial Intelligence**.
 
+- ❤️ Feel free to connect. Always up for networking and collaboration.
 - 📫 How to reach me **mahraibfatima1@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
