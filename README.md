@@ -16,18 +16,18 @@
 
 
 
-  <div>
+  <!--<div>
     <h3 align="left">Support:</h3>
     <p>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahraibfatima&show_icons=true&locale=en&layout=compact" alt="mahraibfatima" />
     </p>
-  </div>
+  </div>-->
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
   
   <div>
-    <h3>Languages and Tools:</h3>
+  <h3>Languages and Tools:</h3>
     <p>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
