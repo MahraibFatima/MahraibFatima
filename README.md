@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.kaggle.com/jamiyat" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle"width="30" height="40"/></a>
+<a href="https://www.kaggle.com/jamiyat" target="_blank" style="padding-top: 200px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" width="20" height="20"/></a>
 <a href="https://twitter.com/mahraib_fatima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahraib_fatima" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mahraib-fatima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahraib-fatima" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1045897601540689941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jamiyat #8796" height="40" width="40" /></a>
