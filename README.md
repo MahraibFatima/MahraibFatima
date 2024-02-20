@@ -8,6 +8,7 @@
 - ❤️ Feel free to connect. Always up for networking and collaboration.
 - 👀 Send me a direct message at [matix@mahraib](https://matrix.to/#/@mahraibfatima:gitter.im)
 - 📫 How to reach me **mahraibfatima1@gmail.com**
+- 🐜 Check out my code gist here [gist@MahraibFatima](https://gist.github.com/MahraibFatima)
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;"></div>
