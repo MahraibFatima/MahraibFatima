@@ -3,12 +3,13 @@
 <p style="text-align: center;font-family:Arial">A passionate Machine Learning Student from Pakistan.</h3>
 
 - 🌱 I’m currently learning **Python, Numpy, Pandas**.
-- 💬 Ask me about **C, Cpp, Python**. 
-- 🚀 An open source enthusiast interested in **Data Science, Machine Learning, and Artificial Intelligence**.
-- ❤️ Feel free to connect. Always up for networking and collaboration.
-- 👀 Send me a direct message at [matix@mahraib](https://matrix.to/#/@mahraibfatima:gitter.im)
-- 📫 How to reach me **mahraibfatima1@gmail.com**
+- 🧩 Ask me about **C, Cpp, Python**. 
+- 🪀 An open source enthusiast interested in **Data Science, Machine Learning, and Artificial Intelligence**.
 - 🐜 Check out my code gist here [gist@MahraibFatima](https://gist.github.com/MahraibFatima)
+- 🤍 Feel free to connect. Always up for networking and collaboration.
+- 🕊️ Send me a direct message at [matix@mahraib](https://matrix.to/#/@mahraibfatima:gitter.im)
+- 👀 How to reach me **mahraibfatima1@gmail.com**
+
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;"></div>
