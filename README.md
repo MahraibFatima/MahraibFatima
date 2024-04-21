@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Mahraib Fatima</h1>
+<h1 align="center">Hi, I'm Mahraib Fatima </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahraibfatima&label=Profile%20views&color=0e75b6&style=flat" alt="mahraibfatima"/></p>
 
-# About me 🌱
-<p style="text-align: center;font-family:Arial">I am pursuing Bechlors🎓 in Computer Science with a 3.79 GPA. I am constantly seeking out new challenges and opportunities to grow my expertise and make a meaningful impact in Open source.😀</h3>
+<h2 > About me 🌱 </h2>
+<p style="text-align: center;font-family:Arial">Currently pursuing a Bachelor's in Computer Science with a stellar 3.79 GPA, I am driven by a relentless quest for challenges and opportunities to expand my expertise. My passion lies in contributing to *Open-source projects*, where I aim to make a meaningful impact by leveraging my skills and knowledge. Eager to continually grow and innovate, I actively seek out avenues to apply my abilities towards advancing technology and driving positive change in the community.</p>
 
-<h2 >Current Focus 🔍 </h2>
+<h3 >Current Focus 🔍 </h3>
 
 - **Continuous Learning:** Dedicated to deepening my grasp of machine learning technologies. Actively immersing myself in the intricacies of algorithms and models to gain profound insights into their functionality. Expanding my skillset by delving into foundational concepts like regression, classification, and clustering, while also exploring advanced topics such as neural networks and deep learning architectures.
 
@@ -12,20 +12,15 @@
 
 - **Diverse Toolset:** Proficient in a variety of machine learning frameworks and libraries, including TensorFlow, PyTorch, scikit-learn, and Keras. Adaptable to project requirements, leveraging the right tools and techniques to develop innovative solutions and tackle real-world challenges effectively.
 
+<!--## Github Stats
+  
+| Open Source | TechStack |
+|-------------|-----------|
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahraibFatima&theme=tokyonight&show_icons=true&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahraibFatima&theme=tokyonight&layout=compact&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats) |-->
+  
+  
 
-
-
-<!--<div style="display: flex; justify-content: space-between; align-items: flex-start;"></div>
-<h3>Languages and Tools:</h3>
-<div>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</div>-->
-
-<h3 align="left">Contact me:</h3>
+<h4 align="left">Contact me:</h4>
 <p align="left">
   
 - 🤍 Check out my code gist here [gist@MahraibFatima](https://gist.github.com/MahraibFatima)
