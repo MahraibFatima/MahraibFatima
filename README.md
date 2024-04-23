@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahraibfatima&label=Profile%20views&color=0e75b6&style=flat" alt="mahraibfatima"/></p>
 
 <h2 > About me 🌱 </h2>
-<p style="text-align: center;font-family:Arial">Currently pursuing a Bachelor's in Computer Science with a stellar 3.79 GPA, I am driven by a relentless quest for challenges and opportunities to expand my expertise. My passion lies in contributing to *Open-source projects*, where I aim to make a meaningful impact by leveraging my skills and knowledge. Eager to continually grow and innovate, I actively seek out avenues to apply my abilities towards advancing technology and driving positive change in the community.</p>
+<p style="text-align: center;font-family:Arial">Currently pursuing a Bachelor's in Computer Science with a stellar 3.79 GPA, I am driven by a relentless quest for challenges and opportunities to expand my expertise. My passion lies in contributing to Open-source projects, where I aim to make a meaningful impact by leveraging my skills and knowledge. Eager to continually grow and innovate, I actively seek out avenues to apply my abilities towards advancing technology and driving positive change in the community.</p>
 
 <h3 >Current Focus 🔍 </h3>
 
