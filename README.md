@@ -17,15 +17,14 @@
 | Open Source | TechStack |
 |-------------|-----------|
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahraibFatima&theme=tokyonight&show_icons=true&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahraibFatima&theme=tokyonight&layout=compact&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats) |-->
-  
-  
 
-<h4 align="left">Contact me:</h4>
-<p align="left">
-  
+<h4 align="left">More about me:</h4>
+
 - 🤍 Check out my code gist here [gist@MahraibFatima](https://gist.github.com/MahraibFatima)
 - 🕊️ How to reach me **mahraibfatima1@gmail.com**
 
+<h5 align="left">Contact me:</h5>
+<p align="left">
 <a href="https://www.kaggle.com/jamiyat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" width="20" height="20"/></a>
 <a href="https://discordapp.com/users/1045897601540689941" target="blank" style="padding-top: 200px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jamiyat #8796" height="35" width="40" /></a>
 <a href="https://www.linkedin.com/in/mahraib-fatima/" target="blank" style="padding-top: 200px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
