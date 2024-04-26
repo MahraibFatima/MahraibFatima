@@ -8,7 +8,7 @@
 
 - **Continuous Learning:** Dedicated to deepening my grasp of machine learning technologies. Actively immersing myself in the intricacies of algorithms and models to gain profound insights into their functionality. Expanding my skillset by delving into foundational concepts like regression, classification, and clustering, while also exploring advanced topics such as neural networks and deep learning architectures.
 
-- **Exploring AI Applications:** Venturing into the exciting domain of artificial intelligence applications, experimenting with machine learning frameworks, and tools to stay ahead in this rapidly evolving field. Engaging with projects involving Macine Learning(ML), computer vision, and reinforcement learning to understand their practical implications and potential impact.
+- **Exploring AI Applications:** Venturing into the exciting domain of artificial intelligence applications, experimenting with machine learning frameworks, and tools to stay ahead in this rapidly evolving field. Engaging with projects involving Machine Learning(ML), computer vision, and reinforcement learning to understand their practical implications and potential impact.
 
 - **Diverse Toolset:** Proficient in a variety of machine learning frameworks and libraries, including TensorFlow, PyTorch, scikit-learn, and Keras. Adaptable to project requirements, leveraging the right tools and techniques to develop innovative solutions and tackle real-world challenges effectively.
 
