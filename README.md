@@ -12,15 +12,9 @@
 
 - **Diverse Toolset:** Proficient in a variety of machine learning frameworks and libraries, including TensorFlow, PyTorch, scikit-learn, and Keras. Adaptable to project requirements, leveraging the right tools and techniques to develop innovative solutions and tackle real-world challenges effectively.
 
-<!--## Github Stats
-  
-| Open Source | TechStack |
-|-------------|-----------|
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahraibFatima&theme=tokyonight&show_icons=true&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahraibFatima&theme=tokyonight&layout=compact&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats) |-->
-
 <h4 align="left">More about me:</h4>
 
-- 🤍 Check out my code gist here [gist@MahraibFatima](https://gist.github.com/MahraibFatima)
+- 🤍 Check out my code gist here **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**
 - 🕊️ How to reach me **mahraibfatima1@gmail.com**
 
 <h5 align="left">Contact me:</h5>
