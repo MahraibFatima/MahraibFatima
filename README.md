@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mahraib Fatima </h1>
+<h1 align="center">Hi👋, I'm Mahraib Fatima ! </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahraibfatima&label=Profile%20views&color=0e75b6&style=flat" alt="mahraibfatima"/></p>
 
 <h2 > About me 🌱 </h2>
@@ -23,3 +23,10 @@
 <a href="https://discordapp.com/users/1045897601540689941" target="blank" style="padding-top: 200px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jamiyat #8796" height="35" width="40" /></a>
 <a href="https://www.linkedin.com/in/mahraib-fatima/" target="blank" style="padding-top: 200px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
 </p>
+
+ #
+<div align="center">
+
+### Show some ✨ by starring some of the repositories!
+
+</div>
