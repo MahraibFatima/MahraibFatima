@@ -12,35 +12,35 @@
 
 - **Diverse Toolset:** Proficient in a variety of machine learning frameworks and libraries, including TensorFlow, PyTorch, scikit-learn, and Keras. Adaptable to project requirements, leveraging the right tools and techniques to develop innovative solutions and tackle real-world challenges effectively.
 
-### Languages and Tools:
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="30" height="30"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="30" height="30"/></a>
 
+### Languages:
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="30" height="30"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="30" height="30"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="30" height="30"/></a>
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/></a>-->
+### Tools:
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/></a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
+<!-- - <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a> Bash -->
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30" height="30"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitbook/gitbook-original.svg" alt="gitbook" width="30" height="30"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" alt="githubcodespaces" width="30" height="30"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="30" height="30"/></a>
+### Libraries and Frameworks:
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="30"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/></a>
+-->
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="keras" width="30" height="30"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="30" height="30"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="30" height="30"/></a>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="30" height="20"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="plotly" width="30" height="30"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="powershell" width="30" height="30"/></a>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30" height="30"/></a>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitbook/gitbook-original.svg" alt="gitbook" width="40" height="40"/></a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" alt="githubcodespaces" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/></a>
 
 
 
