@@ -52,9 +52,9 @@
 
 ### Contact me
 <p align="left">
-<a href="https://www.kaggle.com/jamiyat" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="20" height="20"/</a>
-<a href="https://discordapp.com/users/1045897601540689941" target="blank" style="padding-top: 200px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jamiyat #8796" height="35" width="40" /></a>
-<a href="https://www.linkedin.com/in/mahraib-fatima/" target="blank" style="padding-top: 200px;"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/jamiyat" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="40" height="40"/</a>
+<a href="https://discordapp.com/users/1045897601540689941" target="blank" style="padding-top: 200px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jamiyat #8796" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahraib-fatima/" target="blank" style="padding-top: 200px;"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
 </p>
 
 
