@@ -4,15 +4,16 @@
 <h2 > About me 🌱 </h2>
 <p style="text-align: center;font-family:Arial">Currently pursuing a Bachelor's in Computer Science with a stellar 3.79 GPA, I am driven by a relentless quest for challenges and opportunities to expand my expertise. My passion lies in contributing to Open-source projects, where I aim to make a meaningful impact by leveraging my skills and knowledge. Eager to continually grow and innovate, I actively seek out avenues to apply my abilities towards advancing technology and driving positive change in the community.</p>
 
-### Current Focus 🔍
+<!---### Current Focus 🔍
 
-- **Continuous Learning:** Dedicated to deepening my grasp of machine learning technologies. Actively immersing myself in the intricacies of algorithms and models to gain profound insights into their functionality. Expanding my skillset by delving into foundational concepts like regression, classification, and clustering, while also exploring advanced topics such as neural networks and deep learning architectures.
+- **Continuous Learning:** 
+  - Promote the effective machine learning technologies to a high level with the help of reviewing deeply the algorithms and the models.
+  - I am now getting used to pointing not only to algorithms that are as basic as regression, and classification, and clustering but the ones that are as professional as neural networks and deep learning architectures. It also acquaints me with the current practices hence gives me profound information thus makes me aware in the given field.
 
-- **Exploring AI Applications:** Venturing into the exciting domain of artificial intelligence applications, experimenting with machine learning frameworks, and tools to stay ahead in this rapidly evolving field. Engaging with projects involving Machine Learning(ML), computer vision, and reinforcement learning to understand their practical implications and potential impact.
+- **Exploring AI Applications:** Predictably hopeful and open minded when it comes to artificial intelligence use. Quite often I experiment with certain concrete novelties in the field of machine learning and use various frameworks and tools concerning ML, CV, and RL. I would like to establish the details of the peculiarities of these technologies as well as their potential to influence the given sphere.
 
-- **Diverse Toolset:** Proficient in a variety of machine learning frameworks and libraries, including TensorFlow, PyTorch, scikit-learn, and Keras. Adaptable to project requirements, leveraging the right tools and techniques to develop innovative solutions and tackle real-world challenges effectively.
-
-#
+- **Diverse Toolset:** Has experience with different ML frameworks/recommends such as TensorFlow, PyTorch, scikit-learn or Keras. I make necessary action plans for the assumption of what tools/techniques are necessary for a particular project and the development of more effective strategies to come up with different solutions that are more practical.
+#-->
 
 ### Languages:
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
