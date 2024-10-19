@@ -64,7 +64,7 @@
 ### More about me:
 
 - 🚀 Check out my code gist here **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**
-- 🕊️ How to reach me **mahraibfatima1@gmail.com**
+- 🤟 How to reach me **mahraibfatima1@gmail.com**
 
 
 ### Contact me
