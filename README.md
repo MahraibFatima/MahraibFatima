@@ -4,13 +4,13 @@
 <h2 > About me 🌱 </h2>
 <ul style="text-align: center;font-family:Arial">
   
-- Myself **Mahraib** -> a Computer Science Student.
+- Myself **Mahraib** &#8594; a Computer Science Student.
   
-- **Education** -> Pursuing Bachelor's in CS with a stellar 3.79/4.00 GPA.
+- **Education** &#8594; Pursuing Bachelor's in CS with a stellar 3.79/4.00 GPA.
   
-- **Projects about** -> ML, DSA, OpenSource Contribution, and lil bit others.
+- **Projects about** &#8594; ML, DSA, OpenSource Contribution, and lil bit others.
   
-- **Future Projects about** -> ML, MLOps, Reinforcement Learning. 
+- **Future Projects about** &#8594; ML, MLOps, Reinforcement Learning. 
 
 </ul>
 
