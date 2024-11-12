@@ -26,13 +26,14 @@
 #-->
 #
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahraibFatima&theme=tokyonight&layout=compact&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tools:
+<!-- ### Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/></a> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
-<!-- - <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a> Bash -->
+<!-- - <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a> Bash
 #
 
 ### Languages:
@@ -44,9 +45,9 @@
 # 
 
 ### Libraries and Frameworks:
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="30"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="30"/></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/></a>
--->
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
@@ -57,23 +58,24 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitbook/gitbook-original.svg" alt="gitbook" width="40" height="40"/></a> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/githubcodespaces/githubcodespaces-original.svg" alt="githubcodespaces" width="40" height="40"/></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/></a> -->
 
 #
 
 ### More about me:
 
-- 🚀 Check out my code gist here **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**
-- 🤟 How to reach me **mahraibfatima1@gmail.com**
+- Check out my code gist here **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**
+- How to reach me **mahraibfatima1@gmail.com**
+- Here is my **[socials](https://bio.link/jamiyat)**
 
 
-### Contact me
+<!--### Contact me
 <p align="left">
-<!-- <a href="https://www.kaggle.com/jamiyat" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="40" height="40" padding-top:20ps;"</a> -->
+<!-- <a href="https://www.kaggle.com/jamiyat" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="40" height="40" padding-top:20ps;"</a>
 <a href="https://discordapp.com/users/1045897601540689941" target="blank" style="padding-top: 200px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jamiyat #8796" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/mahraib-fatima/" target="blank" style="padding-top: 200px;"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
 </p>
-
+-->
 
 #
 <div align="center">
