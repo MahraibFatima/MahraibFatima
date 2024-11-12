@@ -26,6 +26,7 @@
 #-->
 #
 
+### TechStack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahraibFatima&theme=tokyonight&layout=compact&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Tools:
@@ -66,7 +67,7 @@
 
 - Check out my code gist here **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**
 - How to reach me **mahraibfatima1@gmail.com**
-- Here is my **[socials](https://bio.link/jamiyat)**
+- Here is my **[Socials](https://bio.link/jamiyat)**
 
 
 <!--### Contact me
