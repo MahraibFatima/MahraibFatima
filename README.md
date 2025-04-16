@@ -1,12 +1,12 @@
-<h1 align="center">Hi👋, Welcome Here! </h1>
+<h1 align="center">Hi, Welcome Here! </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahraibfatima&label=Profile%20views&color=0e75b6&style=flat" alt="mahraibfatima"/></p>
 
-<h2 > About me 🌱 </h2>
+<h2 > About me </h2>
 <ul style="text-align: center;font-family:Arial">
   
 - Myself **Mahraib** &#8594; a Computer Science Student.
   
-- **Education** &#8594; Pursuing Bachelor's in CS with a stellar 3.79/4.00 GPA.
+- **Education** &#8594; Pursuing Bachelor's in CS with 3.73/4.00 GPA.
   
 - **Projects about** &#8594; ML, DSA, OpenSource Contribution, and lil bit others.
   
@@ -66,7 +66,7 @@
 ### More about me:
 
 - Check out my code gist here **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**
-- How to reach me **mahraibfatima1@gmail.com**
+- How to reach me **mahraibfatima5@gmail.com**
 - Here is my **[Socials](https://bio.link/jamiyat)**
 
 
