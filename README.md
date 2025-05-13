@@ -4,13 +4,13 @@
 <h2 > About me </h2>
 <ul style="text-align: center;font-family:Arial">
   
-- Myself **Mahraib** &#8594; a Computer Science Student.
+- I'm **Mahraib** &#8594; a computer science student.
   
 - **Education** &#8594; Pursuing Bachelor's in CS with 3.73/4.00 GPA.
   
-- **Projects about** &#8594; ML, DSA, OpenSource Contribution, and lil bit others.
+- **Projects about** &#8594; ML, DSA, OpenSource contribution, and lil bit others.
   
-- **Future Projects about** &#8594; ML, MLOps, Reinforcement Learning. 
+- **Future Projects about** &#8594; ML, MLOps, Reinforcement learning. 
 
 </ul>
 
@@ -28,6 +28,15 @@
 
 ### TechStack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahraibFatima&theme=tokyonight&layout=compact&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats)
+
+# 
+
+<h3 align="left">GitRoll Profile</h3>
+
+###
+
+<a href="https://gitroll.io/profile/uB7QpDKM9XPd9YWaDKAOhkOb5sFB2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uB7QpDKM9XPd9YWaDKAOhkOb5sFB2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
+
 
 <!-- ### Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
