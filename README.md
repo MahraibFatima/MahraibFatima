@@ -1,16 +1,22 @@
-<h1 align="center">Hi, Welcome Here! </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahraibfatima&label=Profile%20views&color=0e75b6&style=flat" alt="mahraibfatima"/></p>
+# Hey < Data Nerds/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> 
+[![](https://visitcount.itsvg.in/api?id=wahid7852&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <h2 > About me </h2>
-<ul style="text-align: center;font-family:Arial">
-  
-- I'm **Mahraib** &#8594; a computer science student.
-  
-- **Education** &#8594; Pursuing Bachelor's in CS with 3.73/4.00 GPA.
-  
-- **Projects about** &#8594; ML, DSA, OpenSource contribution, and lil bit others.
-  
-- **Future Projects about** &#8594; ML, MLOps, Reinforcement learning. 
+
+- I'm Mahraib Fatima.
+
+<ul style="text-align: center;font-family:Arial"> 
+
+**Code | ML | Systems**  
+- **Building**: Machine learning pipelines and open-source tools.  
+- **Exploring**: Reinforcement learning, MLOps.  
+- **Contributing**: To projects that bridge theory and real-world impact.  
+
+**Current Obsessions**
+- Training models that learn faster, break less.  
+- Turning LeetCode patterns into muscle memory.  
+- Automating everything *except* the coffee maker (for now).  
 
 </ul>
 
