@@ -1,21 +1,25 @@
 # Hey < Data Nerds/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> 
-## About me
+## I'm Mahraib Fatima.
 
 <ul style="text-align: center;font-family:Arial"> 
   
-- I'm Mahraib Fatima.
-
 **Code | ML | Systems**  
 - **Building**: Machine learning pipelines and open-source tools.  
 - **Exploring**: Reinforcement learning, MLOps.  
-- **Contributing**: To projects that bridge theory and real-world impact.  
+- **Contributing**: To projects research theory and real-world.  
 
 **Current Obsessions**
 - Training models that learn faster, break less.  
 - Turning LeetCode patterns into muscle memory.  
-- Automating everything *except* the coffee maker (for now).  
+- Automating everything *except* the coffee maker (for now).
 
+### More about me:
+  
+- Check out my code gist here **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**.
+- How to reach me **mahraibfatima5@gmail.com**.
+- Here is my **[Socials](https://bio.link/jamiyat)**.
 </ul>
+
 
 <!---### Current Focus 🔍
 
@@ -73,16 +77,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/></a> -->
 
-#
-
-### More about me:
-
-<ul style="text-align: center;font-family:Arial"> 
-  
-- Check out my code gist here **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**.
-- How to reach me **mahraibfatima5@gmail.com**.
-- Here is my **[Socials](https://bio.link/jamiyat)**.
-</ul>
 
 <!--### Contact me
 <p align="left">
