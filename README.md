@@ -1,13 +1,9 @@
 # Hey < Data Nerds/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> 
-[![](https://visitcount.itsvg.in/api?id=wahid7852&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## About me
 
 <ul style="text-align: center;font-family:Arial"> 
   
 - I'm Mahraib Fatima.
-
-
 
 **Code | ML | Systems**  
 - **Building**: Machine learning pipelines and open-source tools.  
@@ -86,7 +82,6 @@
 - Check out my code gist here **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**.
 - How to reach me **mahraibfatima5@gmail.com**.
 - Here is my **[Socials](https://bio.link/jamiyat)**.
-- 
 </ul>
 
 <!--### Contact me
