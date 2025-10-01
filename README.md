@@ -15,11 +15,10 @@
 -->
   
 ### More about me:
-  
-- Check out my code gist here **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**.
-- How to reach me **mahraibfatima5@gmail.com**.
-- Here is my **[Socials](https://bio.link/jamiyat)**.
-</ul>
+
+- code gists: **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**.
+- portfolio: **[my work](https://www.mahraib.works/)**.
+
 
 
 <!---### Current Focus 🔍
