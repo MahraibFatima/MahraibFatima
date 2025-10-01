@@ -1,18 +1,19 @@
-# Hey < Data Nerds/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> 
+<!--# Hey < Data Nerds/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> 
+-->
 ## I'm Mahraib Fatima.
 
 <ul style="text-align: center;font-family:Arial"> 
-  
+<!--  
 **Code | ML | Systems**  
 - **Building**: Machine learning pipelines and open-source tools.  
 - **Exploring**: Reinforcement learning, MLOps.  
 - **Contributing**: To projects research theory and real-world.  
-
 **Current Obsessions**
 - Training models that learn faster, break less.  
 - Turning LeetCode patterns into muscle memory.  
 - Automating everything *except* the coffee maker (for now).
-
+-->
+  
 ### More about me:
   
 - Check out my code gist here **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**.
