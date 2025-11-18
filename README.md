@@ -16,8 +16,8 @@
   
 ### More about me:
 
-- code gists: **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**.
-- portfolio: **[my work](https://www.mahraib.works/)**.
+- code gists: **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**
+- portfolio: **[mahraib.works](https://www.mahraib.works/)**
 
 
 
