@@ -33,10 +33,10 @@
 #-->
 #
 
-### TechStack
+<!--### TechStack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahraibFatima&theme=tokyonight&layout=compact&border_color=adffd6)](https://github.com/anuraghazra/github-readme-stats)
 
-# 
+# -->
 
 <h3 align="left">GitRoll Profile</h3>
 
