@@ -1,8 +1,13 @@
 <!--# Hey < Data Nerds/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> 
 -->
-## I'm Mahraib Fatima.
 
 <ul style="text-align: center;font-family:Arial"> 
+  
+  ### mahraib.
+  
+  ai + backend.
+  
+  ##
 <!--  
 **Code | ML | Systems**  
 - **Building**: Machine learning pipelines and open-source tools.  
@@ -14,10 +19,11 @@
 - Automating everything *except* the coffee maker (for now).
 -->
   
-### More about me:
+### more..
 
-- code gists: **[gist@MahraibFatima](https://gist.github.com/MahraibFatima)**
-- portfolio: **[mahraib.works](https://www.mahraib.works/)**
+- code gists: **[gist@mahraib](https://gist.github.com/MahraibFatima).**
+- i wirte **[medium@mahraib](https://medium.com/@mahraibfatima5).**
+- portfolio: **[mahraib.works](https://www.mahraib.works/).**
 
 
 
@@ -38,11 +44,11 @@
 
 # -->
 
-<h3 align="left">GitRoll Profile</h3>
+<!-- <h3 align="left">GitRoll Profile</h3>
 
 ###
 
-<a href="https://gitroll.io/profile/uB7QpDKM9XPd9YWaDKAOhkOb5sFB2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uB7QpDKM9XPd9YWaDKAOhkOb5sFB2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uB7QpDKM9XPd9YWaDKAOhkOb5sFB2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uB7QpDKM9XPd9YWaDKAOhkOb5sFB2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a> -->
 
 
 <!-- ### Tools:
