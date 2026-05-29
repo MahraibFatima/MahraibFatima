@@ -22,7 +22,8 @@
 ### more..
 
 - code gists: **[gist@mahraib](https://gist.github.com/MahraibFatima).**
-- i wirte **[medium@mahraib](https://medium.com/@mahraibfatima5).**
+- technical blog **[substack@mahraib](https://substack.com/@jamiyat).**
+- i dumb wirte **[medium@mahraib](https://medium.com/@mahraibfatima5).**
 - portfolio: **[mahraib.works](https://www.mahraib.works/).**
 
 
